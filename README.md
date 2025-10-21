@@ -5,7 +5,7 @@
 - Clone the repository:
 
 ```
-git clone git@github.com:b-rodrigues/dockerized_pipeline_demo.git
+git clone git@github.com:b-ronah/dockerized_pipeline_demo.git
 ```
 
 - Build the image (run this command in the same folder where you cloned the repo):
