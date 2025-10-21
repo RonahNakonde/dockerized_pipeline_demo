@@ -25,7 +25,7 @@ If everything went well, you should see three plots inside the `fig/` folder.
 
 ## Requirements
 
-You need to have Docker installed.
+You need to have Docker install.
 
 ## Github Actions
 
